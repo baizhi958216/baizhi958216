@@ -52,6 +52,14 @@ yarn config set registry https://registry.npmmirror.com --location=global
 
 ![Fj3zP.png](https://s1.328888.xyz/2022/07/30/Fj3zP.png)
 
+- 如果powershell没有配置默认执行策略默认禁止运行脚本
+- 应如下配置
+```bash
+# 管理员身份运行powershell
+运行set-executionpolicy remotesigned
+```
+参考: [上官飞鸿](https://www.cnblogs.com/jackadam/p/15704911.html)
+
 ### 配置 yarn 全局模块路径
 
 ```bash
