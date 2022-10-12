@@ -15,7 +15,7 @@ remote: error: GH001: Large files detected. You may want to try Git Large File S
 
 ```bash
 # ArchLinux
-pacman -S lfs
+pacman -S git-lfs
 ```
 
 运行 `git lfs env`有输出就是安装好了:
