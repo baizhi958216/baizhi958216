@@ -1,4 +1,4 @@
-# 配置 NPM 和 Yarn(Windows)
+# 配置 NPM/PNPM 和 Yarn(Windows)
 
 请注意, npm `-g`已不再适用, 请使用`--global`
 
@@ -36,6 +36,28 @@ npm config set cache "C:\Users\14752\.node\node_cache" --location=global
 npm config set registry=https://registry.npmmirror.com --location=global
 ```
 
+## PNPM
+
+### 安装 PNPM
+
+```bash
+npm install pnpm --location=global
+```
+
+### 配置 PNPM 国内镜像源
+
+```bash
+pnpm config set registry https://registry.npmmirror.com
+```
+
+- 如果powershell没有配置默认执行策略默认禁止运行脚本
+- 应如下配置
+```bash
+# 管理员身份运行powershell
+运行set-executionpolicy remotesigned
+```
+参考: [上官飞鸿](https://www.cnblogs.com/jackadam/p/15704911.html)
+
 ## Yarn
 
 ### 安装 yarn
@@ -49,16 +71,6 @@ npm install yarn --location=global
 ```bash
 yarn config set registry https://registry.npmmirror.com --location=global
 ```
-
-![Fj3zP.png](https://s1.328888.xyz/2022/07/30/Fj3zP.png)
-
-- 如果powershell没有配置默认执行策略默认禁止运行脚本
-- 应如下配置
-```bash
-# 管理员身份运行powershell
-运行set-executionpolicy remotesigned
-```
-参考: [上官飞鸿](https://www.cnblogs.com/jackadam/p/15704911.html)
 
 ### 配置 yarn 全局模块路径
 
@@ -91,6 +103,7 @@ yarn upgrade --latest
 # 手动选择升级的依赖包，按空格键选择，a 键切换所有，i 键反选选择
 yarn upgrade-interactive --latest
 ```
+
 ### 测试
 
 ```bash
