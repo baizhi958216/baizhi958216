@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://simpleicons.org/icons/blender.svg" alt="blender" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
-
-![baizhi958216's GitHub stats](https://github-readme-stats.vercel.app/api?username=baizhi958216&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baizhi958216&layout=compact&hide=javascript,html,css&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
