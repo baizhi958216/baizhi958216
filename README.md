@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://simpleicons.org/icons/blender.svg" alt="blender" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
+
+
+![Snake animation](https://github.com/baizhi958216/baizhi958216/blob/output/github-contribution-grid-snake.svg)
