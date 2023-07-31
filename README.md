@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
 
 
-![Snake animation](https://github.com/baizhi958216/baizhi958216/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/baizhi958216/baizhi958216/b73d60653115103811a2d7b2b2d2d1b253959b8b/github-contribution-grid-snake.svg)
