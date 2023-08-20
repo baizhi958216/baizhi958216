@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
 
-
-![Snake animation](https://raw.githubusercontent.com/baizhi958216/baizhi958216/b73d60653115103811a2d7b2b2d2d1b253959b8b/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/baizhi958216/baizhi958216/5a547a65a3ec76dc5371e6c8827d68dff60cb55d/github-contribution-grid-snake-dark.svg)
