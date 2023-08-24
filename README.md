@@ -1,5 +1,7 @@
 ### Hi there, I'm [baizhi958216]. 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=baizhi958216&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **baizhi958216/baizhi958216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
