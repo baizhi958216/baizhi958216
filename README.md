@@ -1,5 +1,8 @@
 ### Hi there, I'm [baizhi958216]. 👋
 
+<h1 align="center">Hi 👋, My <img src="https://profile-counter.glitch.me/baizhi958216/count.svg" alt="android" width="300" height="40"/> visitor </h1>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=baizhi958216&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
