@@ -40,4 +40,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baizhi958216&layout=compact&bg_color=30,FF3F80,FF8CB3&title_color=fff&text_color=fff&hide_border=true&hide=Less,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baizhi958216&bg_color=ffffff&color=4b7486&line=959fc6&point=939ce1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Snake animation](https://raw.githubusercontent.com/baizhi958216/baizhi958216/output/github-contribution-grid-snake.svg)
