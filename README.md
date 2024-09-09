@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
 
+![recentmusic](https://netease-recent-profile.vercel.app/?id=1765520249&theme=card&show_random=1&size=300)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baizhi958216&layout=compact&bg_color=30,FF3F80,FF8CB3&title_color=fff&text_color=fff&hide_border=true&hide=Less,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baizhi958216&bg_color=ffffff&color=4b7486&line=959fc6&point=939ce1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
